@@ -351,7 +351,7 @@ print('info---------', info)
 # The filename can be anything, but using the hotkey is good practice.
 
 try:
-    filename = my_hotkey 
+    filename = f"../public_server/{my_hotkey}" 
 
     conn = init_db('prices.db')
 
