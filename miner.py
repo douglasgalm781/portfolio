@@ -331,7 +331,7 @@ import requests
 from timelock import Timelock
 
 # Your Bittensor hotkey
-my_hotkey = "5GstkNKi7X79jHuETJfeUJwGpCUR4nhhsoPCbj6egP92MKhG" # <-- REPLACE WITH YOUR HOTKEY
+my_hotkey = "5Hme13v5gL5CYA5fZuYTdwYpTVwdPenVZ3sDoQ8gX2qoWrmx" # <-- REPLACE WITH YOUR HOTKEY
 
 # Drand beacon configuration (do not change)
 DRAND_API = "https://api.drand.sh/v2"
